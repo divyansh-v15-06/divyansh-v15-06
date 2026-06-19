@@ -97,11 +97,11 @@ Official complaint-management platform for the Estate Office — role-based auth
 
 <br/>
 
-### 🐍 Contribution Snake
+### 🧩 Contribution Tetris
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/divyansh-v15-06/divyansh-v15-06/output/snake-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/divyansh-v15-06/divyansh-v15-06/output/contribution-graph-tetris.svg" width="100%" />
 
 </div>
 
