@@ -6,7 +6,7 @@ on:
   workflow_dispatch: {}
 
 jobs:
-  generate-svg:
+  generate:
     permissions:
       contents: write
     runs-on: ubuntu-latest
@@ -16,18 +16,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate SVG
-        uses: cyprieng/github-breakout@v1
+      - name: Generate Pac-Man graph
+        uses: abozanona/pacman-contribution-graph@main
         with:
-          github_username: ${{ github.repository_owner }}
-          paddle_color: "50fa7b"
-          ball_color: "f1fa8c"
-          bricks_colors: "21222c,44475a,6272a4,bd93f9,ff79c6"
+          github_user_name: ${{ github.repository_owner }}
 
       - name: Move generated SVG to temp
         run: |
-          mkdir -p /tmp/breakout-images
-          mv output/custom.svg /tmp/breakout-images/breakout.svg
+          mkdir -p /tmp/pacman-images
+          cp dist/pacman-contribution-graph.svg /tmp/pacman-images/breakout.svg
 
       - name: Configure git
         run: |
@@ -38,7 +35,7 @@ jobs:
         run: |
           git checkout --orphan output
           git rm -rf .
-          mv /tmp/breakout-images/breakout.svg breakout.svg
+          mv /tmp/pacman-images/breakout.svg breakout.svg
           git add breakout.svg
-          git commit -m "chore: update GitHub breakout SVG" || echo "No changes to commit"
+          git commit -m "chore: update Pac-Man contribution SVG" || echo "No changes to commit"
           git push --force origin output
