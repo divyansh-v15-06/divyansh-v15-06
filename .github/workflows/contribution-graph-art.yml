@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 0 * * *"   # runs daily at midnight UTC
   workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths: [".github/workflows/contribution-graph-art.yml"]
 
 jobs:
   generate:
@@ -24,7 +27,7 @@ jobs:
       - name: Move generated SVG to temp
         run: |
           mkdir -p /tmp/pacman-images
-          cp dist/pacman-contribution-graph.svg /tmp/pacman-images/breakout.svg
+          cp dist/pacman-contribution-graph-dark.svg /tmp/pacman-images/breakout.svg
 
       - name: Configure git
         run: |
