@@ -120,7 +120,7 @@ Official complaint-management platform for the Estate Office — role-based auth
 
 <br/>
 
-<img width="850" src="https://leetcard.jacoblin.cool/DivyanshJamwal?theme=dracula&font=baloo2&ext=heatmap" />
+<img width="850" src="https://leetcard.jacoblin.cool/DivyanshJamwal?ext=heatmap&font=baloo2&colors=282a36,44475a,f8f8f2,6272a4,50fa7b,f1fa8c,ff5555,bd93f9" />
 
 </div>
 
