@@ -97,11 +97,11 @@ Official complaint-management platform for the Estate Office — role-based auth
 
 <br/>
 
-### 🧩 Contribution Tetris
+### 🕹️ Contribution Breakout
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/divyansh-v15-06/divyansh-v15-06/output/contribution-graph-tetris.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/divyansh-v15-06/divyansh-v15-06/output/breakout.svg" width="100%" />
 
 </div>
 
@@ -121,6 +121,18 @@ Official complaint-management platform for the Estate Office — role-based auth
 <br/>
 
 <img width="850" src="https://leetcard.jacoblin.cool/DivyanshJamwal?theme=dracula&font=baloo2&ext=heatmap" />
+
+</div>
+
+<br/>
+
+<br/>
+
+### 🎧 Now Playing
+
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31unfv6ieqsjilshm5tpapyxolfy&cover_image=true&theme=spotify-embed&show_offline=true&background_color=000000&interchange=true&profanity=true&hide_remaster=true&mode=dark&bar_color=0a0a0a&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31unfv6ieqsjilshm5tpapyxolfy&redirect=true)
 
 </div>
 
