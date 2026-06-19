@@ -107,6 +107,13 @@ Official complaint-management platform for the Estate Office — role-based auth
 
 <br/>
 
+### ⏱️ Weekly Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br/>
+
 ### 📊 Stats
 
 <div align="center">
