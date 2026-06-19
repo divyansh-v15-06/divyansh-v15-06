@@ -168,6 +168,18 @@ The official complaint-management platform for NIT Hamirpur's Estate Office, str
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e3a8a&height=3&width=100%"/>
+
+### 🧩 LeetCode Progress
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/DivyanshJamwal?theme=dark&font=baloo2&ext=heatmap" />
+
+</div>
+
+<br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=150&section=footer&text=Let's%20Build%20Something&fontSize=22&fontColor=ffffff&fontAlignY=75" width="100%"/>
 
 <div align="center">
