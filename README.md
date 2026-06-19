@@ -56,52 +56,58 @@ impl Divyansh {
 
 ## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br/>
 
-### 🔗 [ChainMerge SDK](https://github.com/divyansh-v15-06/ChainMerge)
-**Universal Web3 Decoding Layer** · Published on [npm](https://www.npmjs.com/package/chainmerge-sdk) & [PyPI](https://pypi.org/project/chainmerge-sdk/)
+<div align="center">
 
-A unified transaction-decoding interface spanning 8+ chains — Ethereum, Solana, Cosmos, Aptos, Sui, Polkadot, Bitcoin, and Starknet — built around a normalized schema so apps never need chain-specific parsing logic. High-performance decoders written in Rust, exposed via an Axum HTTP API plus TypeScript and Python SDKs, with AI-assisted transaction-intent classification (swaps, arbitrage, suspicious activity).
+### 🔗 [ChainMerge SDK](https://github.com/divyansh-v15-06/ChainMerge) — Universal Web3 Decoding Layer
 
-`Rust` `Axum` `TypeScript` `Python` `Web3` `Gemini AI`
+<img src="https://img.shields.io/badge/Published-npm%20%26%20PyPI-2563EB?style=flat-square"/> <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/> <img src="https://img.shields.io/badge/Axum-000000?style=flat-square"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3.js&logoColor=white"/>
 
-</td>
-<td width="50%" valign="top">
+</div>
 
-### 🐘 [Wildlife Conservation Geofencing](https://github.com/divyansh-v15-06/geo-fencing-GDG)
-**Real-time IoT Tracking Platform**
+A unified transaction-decoding interface spanning **8+ chains** — Ethereum, Solana, Cosmos, Aptos, Sui, Polkadot, Bitcoin, and Starknet — built around a normalized schema so apps never need chain-specific parsing logic. High-performance decoders written in Rust, exposed via an Axum HTTP API plus TypeScript and Python SDKs, with AI-assisted transaction-intent classification for swaps, arbitrage, and suspicious activity.
+
+📦 [npm](https://www.npmjs.com/package/chainmerge-sdk) · [PyPI](https://pypi.org/project/chainmerge-sdk/) · [Source](https://github.com/divyansh-v15-06/ChainMerge)
+
+<br/>
+
+<div align="center">
+
+### 🐘 [Wildlife Conservation Geofencing](https://github.com/divyansh-v15-06/geo-fencing-GDG) — Real-time IoT Tracking Platform
+
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white"/> <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white"/>
+
+</div>
 
 A real-time wildlife monitoring system for geofence-based animal tracking and boundary-breach detection, with hardware-ready telemetry APIs for GPS collar integration, live WebSocket event streams, and automated buzzer control. Geospatial classification via bounding-box filtering and ray-casting point-in-polygon detection, visualized on interactive OpenStreetMap/Leaflet dashboards.
 
-`Rust` `Axum` `Next.js` `SQLite` `WebSockets` `Leaflet`
+📦 [Source](https://github.com/divyansh-v15-06/geo-fencing-GDG)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<br/>
 
-### 🏗️ [CMS Web](https://github.com/divyansh-v15-06/cms-webb)
-**Complaint Management System for NIT Hamirpur** · 🚧 In Progress
+<div align="center">
+
+### 🏗️ [CMS Web](https://github.com/divyansh-v15-06/cms-webb) — Complaint Management System for NIT Hamirpur
+
+<img src="https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/RBAC-2563EB?style=flat-square"/>
+
+</div>
 
 The official complaint-management platform for NIT Hamirpur's Estate Office, streamlining civil and electrical maintenance requests across campus. Role-based auth for complainants, Junior/Assistant/Executive Engineers, and admins, with full complaint lifecycle handling — registration, assignment, escalation, resolution — and live dashboards for department-wise monitoring.
 
-`Go` `PostgreSQL` `RBAC` `REST APIs`
+📦 [Source](https://github.com/divyansh-v15-06/cms-webb)
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
 ### 🌐 Open Source Contributions
 
-- **JoinMarket** — cross-platform Windows compatibility via Node.js tooling, replacing Unix-only scripts
-- **Nostr Components** — keyboard accessibility, ARIA semantics, WCAG-compliant navigation
-- **Bitcoin Connect** — component lifecycle cleanup + accessibility fixes in wallet UI
-- **Zeus Wallet** — contributor onboarding docs & Windows dev workflow support
-
-</td>
-</tr>
-</table>
+| Project | Contribution |
+|---|---|
+| **JoinMarket** | Cross-platform Windows compatibility via Node.js tooling, replacing Unix-only scripts |
+| **Nostr Components** | Keyboard accessibility, ARIA semantics, WCAG-compliant navigation |
+| **Bitcoin Connect** | Component lifecycle cleanup + accessibility fixes in wallet UI |
+| **Zeus Wallet** | Contributor onboarding docs & Windows dev workflow support |
 
 <br/>
 
